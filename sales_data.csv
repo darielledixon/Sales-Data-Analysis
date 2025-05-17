@@ -1,0 +1,11 @@
+Order ID,Date,Product,Category,Region,Quantity,Price,Total Sales
+1001,2023-01-01,Headphones,Electronics,North,2,50,100
+1002,2023-01-03,T-shirt,Apparel,South,3,20,60
+1003,2023-01-05,Coffee,Home,East,4,10,40
+1004,2023-01-07,Backpack,Apparel,West,1,40,40
+1005,2023-01-10,Laptop,Electronics,North,1,800,800
+1006,2023-01-12,Notebook,Home,South,5,5,25
+1007,2023-01-15,Mouse,Electronics,East,2,25,50
+1008,2023-01-18,Shoes,Apparel,West,1,60,60
+1009,2023-01-20,Tablet,Electronics,North,1,300,300
+1010,2023-01-25,Water,Home,South,3,15,45
