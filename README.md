@@ -92,5 +92,12 @@ Headphones    100
 
 ## 📸 Example Visualization
 
+### 💼 Total Sales by Category
 ![Sales by Category](visuals/sales_by_category.png)
+
+### 🌎 Total Sales by Region
+![Sales by Region](visuals/sales_by_region.png)
+
+### 📦 Total Sales by Product
+![Sales by Product](visuals/sales_by_product.png)
 
