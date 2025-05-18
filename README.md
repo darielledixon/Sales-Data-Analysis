@@ -89,3 +89,6 @@ Laptop        800
 Tablet        300
 Headphones    100
 ```
+## 📸 Example Visualization
+
+![Sales by Category](visuals/sales_by_category.png)
