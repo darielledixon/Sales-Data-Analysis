@@ -91,4 +91,7 @@ Headphones    100
 ```
 ## 📸 Example Visualization
 
+## 📸 Example Visualization
+
 ![Sales by Category](visuals/sales_by_category.png)
+
