@@ -89,7 +89,6 @@ Laptop        800
 Tablet        300
 Headphones    100
 ```
-## 📸 Example Visualization
 
 ## 📸 Example Visualization
 
